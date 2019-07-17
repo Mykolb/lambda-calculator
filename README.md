@@ -54,12 +54,12 @@ Using the design file, build out your User Interface. Before you start, look thr
 
 **STEP 1**
 
-- You have been given a Data.js file that contains some arrays.
-- Find a way to bring (import) the data into the necessary files, but do not change the data.
-- Data should be imported into the wrapper components (`Numbers`, `Operators`, and `Specials`)
+[x] You have been given a Data.js file that contains some arrays.
+[x] Find a way to bring (import) the data into the necessary files, but do not change the data.
+[x] Data should be imported into the wrapper components (`Numbers`, `Operators`, and `Specials`)
 
 **Step 2**
-Add the data to state like this:
+[x]Add the data to state like this:
 
 ```js
 import { numbers } from '../path/to/data';
